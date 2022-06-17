@@ -1,5 +1,14 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
+# description
+This is a landing page for Horiseon Marketing. HTML and CSS have been updated to use semantic tags, anchor links have been fixed, alt text has been added to every image, and HTML and CSS follow a logical structure.
+
+# link
+https://pem2k.github.io/refactor-challenge
+
+# Screenshot
+https://pem2k.github.io/refactor-challenge/assets/images/horiseon.png
+
 ## Challenges in This Course
 
 There are two types of Challenges in this course. Each one is designed to prepare you for a scenario that you're likely to encounter as a web developer.
